@@ -1,0 +1,13 @@
+{
+  "record_id": "pair-000501",
+  "phase": "normalize",
+  "metric": "cardinality",
+  "value": 52.0008,
+  "sample_size": 109,
+  "digest": "64c74a857c2580cb3aab6df6deb25f62",
+  "window": {
+    "start": "2026-04-16",
+    "span_hours": 24
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
