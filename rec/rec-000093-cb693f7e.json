@@ -1,0 +1,13 @@
+{
+  "record_id": "rec-000093",
+  "phase": "ingest",
+  "metric": "recency",
+  "value": 36.9077,
+  "sample_size": 2521,
+  "digest": "7096809ebc150b0bac7434f927123883",
+  "window": {
+    "start": "2026-09-16",
+    "span_hours": 24
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
