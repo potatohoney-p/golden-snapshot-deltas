@@ -1,0 +1,13 @@
+{
+  "record_id": "rec-000013",
+  "phase": "rerank",
+  "metric": "coverage",
+  "value": 86.7008,
+  "sample_size": 620,
+  "digest": "fa99991a05f8a1700ee6238f13b76bf6",
+  "window": {
+    "start": "2026-01-02",
+    "span_hours": 6
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
