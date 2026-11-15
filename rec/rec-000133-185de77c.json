@@ -1,0 +1,13 @@
+{
+  "record_id": "rec-000133",
+  "phase": "evaluate",
+  "metric": "entropy",
+  "value": 10.208,
+  "sample_size": 2575,
+  "digest": "e9cdbc1f4ab06eadc67eb72315d3b8d0",
+  "window": {
+    "start": "2026-04-11",
+    "span_hours": 6
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
