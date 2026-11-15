@@ -1,0 +1,13 @@
+{
+  "record_id": "rec-000329",
+  "phase": "evaluate",
+  "metric": "drift",
+  "value": 58.592,
+  "sample_size": 2770,
+  "digest": "1d50c1f9a62ac7aed93216b250b9e416",
+  "window": {
+    "start": "2026-11-19",
+    "span_hours": 24
+  },
+  "notes": "deterministic fixture generated for harness validation"
+}
